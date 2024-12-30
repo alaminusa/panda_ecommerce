@@ -1,0 +1,78 @@
+body{
+    font-family: "Work Sans", serif;
+}
+.product_bg{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+    font-weight: 700;
+}
+.buy_btn{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat_1{
+    background-color: orange;
+    padding: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+}
+.cat_2{
+    background-color: rgb(242, 77, 77);
+    padding: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+}
+.cat_3{
+    background-color: blue;
+    padding: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+}
+.category{
+    margin-top: 100px;
+    padding-bottom: 30px;
+}
+.category h2{
+    color: white;
+}
+.shoes{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.backpack{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.product_bg{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+#subscribe{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
